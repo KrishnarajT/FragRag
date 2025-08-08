@@ -22,3 +22,15 @@ curl --location 'http://krish-home-nas.tail4924f5.ts.net:11434/api/generate' \
     "stream": false
 }'
 ```
+
+### OpenWebUI PC
+
+```
+http://krish-home-nas.tail4924f5.ts.net:4012/
+```
+
+### OpenWebUI NAS
+
+```
+http://krish-home-nas.tail4924f5.ts.net:4013/
+```
