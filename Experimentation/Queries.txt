@@ -1,0 +1,16 @@
+phi4-mini:3.8B
+
+prompt:
+You are an expert at writing neo4j cypher queries. I want to build out my knowledge graph. Whenever i ask you to create relationships, assume that these nodes already exist. DO NOT include anything in the answer except the query. It should have only the create query and nothing else. whatever node i tell you to create a relationship, i have made sure already exists in neo4j. Give me the cypher query in neo4j to create a relationship between man and person
+
+answer: 
+MATCH (m:Man), (p:Person)
+CREATE (m)-[:RELATIONSHIP_TYPE]->(p)
+
+prompt2: (much better)
+You are an expert at writing neo4j cypher queries. I want to build out my knowledge graph. Whenever i ask you to create relationships, assume that these nodes already exist. DO NOT include anything in the answer except the query. It should have only the create query and nothing else. whatever node i tell you to create a relationship, i have made sure already exists in neo4j. Give me the cypher query in neo4j to create a relationship between man and person. You decide the relationship type, make it a sensible relationship type and not generic and make sure the arrow direction is in the right way not in opposite wayhs, the direction HAS to make sense.
+
+
+answer:
+MATCH (m:Man), (p:Person)
+CREATE (m)-[:IS_MEMBER_OF]->(p)  // assuming that man IS a member of Person
