@@ -1,0 +1,4661 @@
+[
+  {
+    "page_number": 1,
+    "entities": [
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Metformin",
+        "label": "PERSON"
+      },
+      {
+        "text": "C4H11N5 •",
+        "label": "ORG"
+      },
+      {
+        "text": "165.63",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "12.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "6.68",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "750",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "entities": [
+      {
+        "text": "750",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "System Components",
+        "label": "ORG"
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "GI",
+        "label": "ORG"
+      },
+      {
+        "text": "GI",
+        "label": "ORG"
+      },
+      {
+        "text": "GI",
+        "label": "ORG"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "approximately 50% to 60%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "approximately a 40%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "25%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "35-minute",
+        "label": "TIME"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "entities": [
+      {
+        "text": "Cmax",
+        "label": "PERSON"
+      },
+      {
+        "text": "7 hours",
+        "label": "TIME"
+      },
+      {
+        "text": "4 to 8 hours",
+        "label": "TIME"
+      },
+      {
+        "text": "approximately 20%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "AUC",
+        "label": "ORG"
+      },
+      {
+        "text": "500 to 2000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "approximately 0.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500, 1000",
+        "label": "DATE"
+      },
+      {
+        "text": "1500",
+        "label": "DATE"
+      },
+      {
+        "text": "2000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "2000",
+        "label": "DATE"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "1000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Cmax and AUC",
+        "label": "ORG"
+      },
+      {
+        "text": "approximately 50%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "Cmax and Tmax",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "654",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "358 L. Metformin",
+        "label": "PERSON"
+      },
+      {
+        "text": "more than 90%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "GLUCOPHAGE",
+        "label": "ORG"
+      },
+      {
+        "text": "24 to 48 hours",
+        "label": "TIME"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "entities": [
+      {
+        "text": "Table 1",
+        "label": "LAW"
+      },
+      {
+        "text": "approximately \n3.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "approximately 90%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "the first 24 hours",
+        "label": "TIME"
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "approximately 6.2 hours",
+        "label": "TIME"
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "approximately 17.6 hours",
+        "label": "TIME"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Table 1",
+        "label": "LAW"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Renal Impairment",
+        "label": "PERSON"
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "WARNINGS",
+        "label": "ORG"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Geriatrics \nLimited",
+        "label": "ORG"
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Cmax",
+        "label": "PERSON"
+      },
+      {
+        "text": "Table 1",
+        "label": "LAW"
+      },
+      {
+        "text": "WARNINGS",
+        "label": "ORG"
+      },
+      {
+        "text": "DOSAGE",
+        "label": "GPE"
+      },
+      {
+        "text": "4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "entities": [
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "24",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "74)d",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "19",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.03",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "±0.33",
+        "label": "GPE"
+      },
+      {
+        "text": "1.60",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.01",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "±0.42",
+        "label": "ORG"
+      },
+      {
+        "text": "2.75",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "±0.81",
+        "label": "ORG"
+      },
+      {
+        "text": "2.64",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "±0.82",
+        "label": "ORG"
+      },
+      {
+        "text": "1.79",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "±0.94",
+        "label": "ORG"
+      },
+      {
+        "text": "600",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "552",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "642",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "23",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "19",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.48",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.90",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3.32",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.01",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "±1.22",
+        "label": "ORG"
+      },
+      {
+        "text": "491",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "550",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "12",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.45",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.71",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "±1.05",
+        "label": "ORG"
+      },
+      {
+        "text": "412",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Renal",
+        "label": "ORG"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "61-90",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Moderate",
+        "label": "PERSON"
+      },
+      {
+        "text": "4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.86",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4.12",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3.93",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3.20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3.75",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "±0.50",
+        "label": "NORP"
+      },
+      {
+        "text": "4.01",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "±1.10",
+        "label": "ORG"
+      },
+      {
+        "text": "384",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "108",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "130",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "18",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Peak",
+        "label": "LOC"
+      },
+      {
+        "text": "Time",
+        "label": "ORG"
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "age 32 years",
+        "label": "DATE"
+      },
+      {
+        "text": "23-59 years",
+        "label": "DATE"
+      },
+      {
+        "text": "Kinetic",
+        "label": "NORP"
+      },
+      {
+        "text": "19",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "age 71 years",
+        "label": "DATE"
+      },
+      {
+        "text": "65-81 years",
+        "label": "DATE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.73",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Cmax and AUC",
+        "label": "ORG"
+      },
+      {
+        "text": "less than 5%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "12-16 years of age",
+        "label": "DATE"
+      },
+      {
+        "text": "20-45 years of age",
+        "label": "DATE"
+      },
+      {
+        "text": "Gender \nMetformin",
+        "label": "ORG"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "19",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "16",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "entities": [
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "n=51",
+        "label": "PERSON"
+      },
+      {
+        "text": "Hispanics",
+        "label": "NORP"
+      },
+      {
+        "text": "n=24",
+        "label": "ORG"
+      },
+      {
+        "text": "US",
+        "label": "GPE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "approximately 240",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "dL",
+        "label": "PERSON"
+      },
+      {
+        "text": "2550",
+        "label": "DATE"
+      },
+      {
+        "text": "29 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "PPG",
+        "label": "ORG"
+      },
+      {
+        "text": "59",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "83",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.8%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "Table 2",
+        "label": "LAW"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Placebo Summary",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Plasma Glucose",
+        "label": "PERSON"
+      },
+      {
+        "text": "Body Weight",
+        "label": "PERSON"
+      },
+      {
+        "text": "Final Visit",
+        "label": "ORG"
+      },
+      {
+        "text": "29-week",
+        "label": "DATE"
+      },
+      {
+        "text": "Placebo",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Baseline \nChange",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "241.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "53.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "237.7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Hemoglobin A1c",
+        "label": "PERSON"
+      },
+      {
+        "text": "Baseline \nChange",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "8.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Baseline \nChange",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "201.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "206.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Baseline",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "29-week",
+        "label": "DATE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "approximately 250",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "dL",
+        "label": "PERSON"
+      },
+      {
+        "text": "Table 3",
+        "label": "LAW"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "the end of each week",
+        "label": "DATE"
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "4 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "week 4",
+        "label": "DATE"
+      },
+      {
+        "text": "6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "entities": [
+      {
+        "text": "monthly",
+        "label": "DATE"
+      },
+      {
+        "text": "2500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "approximately 70%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "2000",
+        "label": "DATE"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "PPG",
+        "label": "ORG"
+      },
+      {
+        "text": "14",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.2%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "2500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "PPG",
+        "label": "ORG"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "dL",
+        "label": "PERSON"
+      },
+      {
+        "text": "0.4%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "PPG",
+        "label": "ORG"
+      },
+      {
+        "text": "63",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "65",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.7%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "68",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "dL",
+        "label": "PERSON"
+      },
+      {
+        "text": "1.9%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "Table 3",
+        "label": "LAW"
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "GLU",
+        "label": "ORG"
+      },
+      {
+        "text": "Plasma Glucose",
+        "label": "PERSON"
+      },
+      {
+        "text": "Body Weight",
+        "label": "PERSON"
+      },
+      {
+        "text": "Final Visit",
+        "label": "ORG"
+      },
+      {
+        "text": "29-week",
+        "label": "DATE"
+      },
+      {
+        "text": "GLU",
+        "label": "ORG"
+      },
+      {
+        "text": "GLU",
+        "label": "ORG"
+      },
+      {
+        "text": "Comb",
+        "label": "PERSON"
+      },
+      {
+        "text": "GLU",
+        "label": "ORG"
+      },
+      {
+        "text": "250.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "247.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "253.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "63.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.025",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Hemoglobin A1c",
+        "label": "PERSON"
+      },
+      {
+        "text": "8.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.007",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "202.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "203.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "204.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.011",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Baseline",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Table 4",
+        "label": "LAW"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 8,
+    "entities": [
+      {
+        "text": "Serum Lipid \nVariables",
+        "label": "PERSON"
+      },
+      {
+        "text": "29-week",
+        "label": "DATE"
+      },
+      {
+        "text": "Placebo",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Placebo",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "211.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "212.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "213.1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "215.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "219.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "Total Triglycerides",
+        "label": "ORG"
+      },
+      {
+        "text": "236.1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "16%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "203.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "242.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "215.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "266.1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "LDL-Cholesterol",
+        "label": "PERSON"
+      },
+      {
+        "text": "135.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "138.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "134.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "136.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "137.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "HDL-Cholesterol",
+        "label": "ORG"
+      },
+      {
+        "text": "39.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "40.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "37.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "39.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "37.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "GLUCOPHAGE",
+        "label": "ORG"
+      },
+      {
+        "text": "Tables 2",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "24-week",
+        "label": "DATE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Table 5",
+        "label": "LAW"
+      },
+      {
+        "text": "2.10%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "1.56%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "16%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "93.0 U/day",
+        "label": "DATE"
+      },
+      {
+        "text": "110.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "p=0.04",
+        "label": "PERSON"
+      },
+      {
+        "text": "8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "entities": [
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Placebo/Insulin Summary",
+        "label": "ORG"
+      },
+      {
+        "text": "Baseline",
+        "label": "GPE"
+      },
+      {
+        "text": "n=26",
+        "label": "ORG"
+      },
+      {
+        "text": "Hemoglobin A1c",
+        "label": "PERSON"
+      },
+      {
+        "text": "Baseline \nChange",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "8.95",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.10",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "9.32",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.54",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.43a",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Insulin Dose",
+        "label": "PERSON"
+      },
+      {
+        "text": "U/day",
+        "label": "DATE"
+      },
+      {
+        "text": "Baseline \nChange",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "93.12",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.15",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "94.64",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "15.93",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "16.08",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "7.77b",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "p=0.04",
+        "label": "PERSON"
+      },
+      {
+        "text": "p=0.04",
+        "label": "PERSON"
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "n=51",
+        "label": "ORG"
+      },
+      {
+        "text": "16 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "7.46",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.97%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "7.15",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.61",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6.97",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.62",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "19%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "23.68",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "30.22",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.43",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "25.20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3.11",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4.30",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.30",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6.08",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "24-week",
+        "label": "DATE"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "evening",
+        "label": "TIME"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "7.0%-10.0%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "126",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8.0%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "176",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "12 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "0.1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.6%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "23",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8.0%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "24-week",
+        "label": "DATE"
+      },
+      {
+        "text": "0.2%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "0.6%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "entities": [
+      {
+        "text": "16-week",
+        "label": "DATE"
+      },
+      {
+        "text": "evening",
+        "label": "TIME"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "11.0%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "126-280",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Plasma Glucose",
+        "label": "PERSON"
+      },
+      {
+        "text": "Body Weight",
+        "label": "PERSON"
+      },
+      {
+        "text": "Final Visit",
+        "label": "ORG"
+      },
+      {
+        "text": "16-week",
+        "label": "DATE"
+      },
+      {
+        "text": "Placebo",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Baseline \nChange",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "8.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "n=115",
+        "label": "PERSON"
+      },
+      {
+        "text": "8.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "Baseline \nChange",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "182.7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "15.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "183.7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "19.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "178.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "28.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "181.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "29.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "n=122",
+        "label": "ORG"
+      },
+      {
+        "text": "181.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "33.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "179.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "7.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Baseline \nChange",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "192.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "191.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "188.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "195.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "192.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "194.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Baseline",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Placebo",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "24-week",
+        "label": "DATE"
+      },
+      {
+        "text": "evening",
+        "label": "TIME"
+      },
+      {
+        "text": "evening",
+        "label": "TIME"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "at least 8 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "10",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "entities": [
+      {
+        "text": "Plasma Glucose",
+        "label": "PERSON"
+      },
+      {
+        "text": "Body Weight",
+        "label": "PERSON"
+      },
+      {
+        "text": "Week 12",
+        "label": "DATE"
+      },
+      {
+        "text": "Final Visit",
+        "label": "ORG"
+      },
+      {
+        "text": "24-week",
+        "label": "DATE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Twice Daily \nGLUCOPHAGE XR \n1000",
+        "label": "ORG"
+      },
+      {
+        "text": "Once Daily",
+        "label": "ORG"
+      },
+      {
+        "text": "1500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Once Daily \nHemoglobin A1c",
+        "label": "ORG"
+      },
+      {
+        "text": "n=67",
+        "label": "PERSON"
+      },
+      {
+        "text": "n=72",
+        "label": "ORG"
+      },
+      {
+        "text": "7.06",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6.99",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "7.02",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "12 Weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "0.14",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.23",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.04",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "95%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "0.03",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.31",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.10",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.36",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.08",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.15",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.14a",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.27",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "95%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "0.04",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.31",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.11",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.43",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.02",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.28",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "n=72",
+        "label": "ORG"
+      },
+      {
+        "text": "127.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "131.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "131.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "12 Weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "12.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "9.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3.7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "95%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "6.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "19.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "14.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "7.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "14.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "11.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "7.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "95%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "7.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "21.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "18.6",
+        "label": "DATE"
+      },
+      {
+        "text": "1.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "14.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Body Weight",
+        "label": "PERSON"
+      },
+      {
+        "text": "210.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "202.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "192.7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "12 Weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "0.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "95%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "0.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "95%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "0.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Baseline",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "12 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "1000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.23%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "Table 8",
+        "label": "LAW"
+      },
+      {
+        "text": "11",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 12,
+    "entities": [
+      {
+        "text": "8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Final Visit",
+        "label": "ORG"
+      },
+      {
+        "text": "16-week",
+        "label": "DATE"
+      },
+      {
+        "text": "Placebo",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Twice \nDaily \nTotal Cholesterol",
+        "label": "ORG"
+      },
+      {
+        "text": "210.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.0%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "218.1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.7%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "n=110",
+        "label": "PERSON"
+      },
+      {
+        "text": "214.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.7%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "204.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.6%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "208.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.6%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "n=110",
+        "label": "PERSON"
+      },
+      {
+        "text": "208.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.6%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "Total Triglycerides",
+        "label": "ORG"
+      },
+      {
+        "text": "220.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "14.5%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "211.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "9.4%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "n=110",
+        "label": "PERSON"
+      },
+      {
+        "text": "198.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "15.1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "194.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "14.9%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "179.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "9.4%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "n=110",
+        "label": "PERSON"
+      },
+      {
+        "text": "211.7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "10.9%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "LDL-Cholesterol",
+        "label": "PERSON"
+      },
+      {
+        "text": "131.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.4%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "134.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.6%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "135.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3.5%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "125.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3.3%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "131.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5.5%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "131.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3.2%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "HDL-Cholesterol",
+        "label": "ORG"
+      },
+      {
+        "text": "40.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6.2%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "41.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8.6%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "40.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5.5%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "40.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6.1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "42.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "7.1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "39.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5.8%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "Table 9",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "12",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "entities": [
+      {
+        "text": "9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Final Visit",
+        "label": "ORG"
+      },
+      {
+        "text": "24-week",
+        "label": "DATE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Twice Daily \n1000",
+        "label": "ORG"
+      },
+      {
+        "text": "Once Daily",
+        "label": "ORG"
+      },
+      {
+        "text": "1500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Once Daily \nTotal Cholesterol",
+        "label": "ORG"
+      },
+      {
+        "text": "199.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "201.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.3%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "201.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "Total Triglycerides",
+        "label": "ORG"
+      },
+      {
+        "text": "178.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6.3%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "169.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "25.3%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "206.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "33.4%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "LDL-Cholesterol",
+        "label": "PERSON"
+      },
+      {
+        "text": "122.1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "126.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "115.7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "HDL-Cholesterol",
+        "label": "ORG"
+      },
+      {
+        "text": "41.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4.8%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "41.7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1.0%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "44.6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.1%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Baseline \nPediatric Clinical Studies",
+        "label": "ORG"
+      },
+      {
+        "text": "10 to 16 years",
+        "label": "DATE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "dL",
+        "label": "PERSON"
+      },
+      {
+        "text": "2000",
+        "label": "DATE"
+      },
+      {
+        "text": "16 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "11 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "64.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Table 10",
+        "label": "LAW"
+      },
+      {
+        "text": "10",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Placebo (Pediatricsa",
+        "label": "ORG"
+      },
+      {
+        "text": "Plasma Glucose",
+        "label": "PERSON"
+      },
+      {
+        "text": "Body Weight",
+        "label": "PERSON"
+      },
+      {
+        "text": "Placebo",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Baseline \nChange",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "n=37",
+        "label": "ORG"
+      },
+      {
+        "text": "162.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "42.9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "192.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "21.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Baseline \nChange",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "205.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "189.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2.0",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Pediatric",
+        "label": "ORG"
+      },
+      {
+        "text": "age 13.8 years",
+        "label": "DATE"
+      },
+      {
+        "text": "10-16 years",
+        "label": "DATE"
+      },
+      {
+        "text": "Baseline",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "INDICATIONS",
+        "label": "ORG"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "13",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "entities": [
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "WARNINGS",
+        "label": "ORG"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "mcg/mL",
+        "label": "ORG"
+      },
+      {
+        "text": "age 65 years old",
+        "label": "DATE"
+      },
+      {
+        "text": "DOSAGE",
+        "label": "GPE"
+      },
+      {
+        "text": "ADMINISTRATION",
+        "label": "ORG"
+      },
+      {
+        "text": "CONTRAINDICATIONS",
+        "label": "ORG"
+      },
+      {
+        "text": "PRECAUTIONS",
+        "label": "ORG"
+      },
+      {
+        "text": "14",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 15,
+    "entities": [
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "mL. Metformin",
+        "label": "PERSON"
+      },
+      {
+        "text": "170",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "ADMINISTRATION",
+        "label": "ORG"
+      },
+      {
+        "text": "CLINICAL PHARMACOLOGY",
+        "label": "PERSON"
+      },
+      {
+        "text": "15",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 16,
+    "entities": [
+      {
+        "text": "CONTRAINDICATIONS",
+        "label": "ORG"
+      },
+      {
+        "text": "between 30-45",
+        "label": "DATE"
+      },
+      {
+        "text": "Obtain",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "45 mL/min/1.73 m2",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "•  Drug",
+        "label": "ORG"
+      },
+      {
+        "text": "Age 65",
+        "label": "DATE"
+      },
+      {
+        "text": "60 mL",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "48 hours",
+        "label": "TIME"
+      },
+      {
+        "text": "16",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 17,
+    "entities": [
+      {
+        "text": "Vitamin B12",
+        "label": "PERSON"
+      },
+      {
+        "text": "29 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "B12",
+        "label": "ORG"
+      },
+      {
+        "text": "approximately 7%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "B12",
+        "label": "ORG"
+      },
+      {
+        "text": "B12",
+        "label": "ORG"
+      },
+      {
+        "text": "B12",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "B12",
+        "label": "ORG"
+      },
+      {
+        "text": "B12",
+        "label": "ORG"
+      },
+      {
+        "text": "B12",
+        "label": "ORG"
+      },
+      {
+        "text": "3-year",
+        "label": "DATE"
+      },
+      {
+        "text": "17",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 18,
+    "entities": [
+      {
+        "text": "Elderly",
+        "label": "GPE"
+      },
+      {
+        "text": "WARNINGS",
+        "label": "ORG"
+      },
+      {
+        "text": "PRECAUTIONS",
+        "label": "ORG"
+      },
+      {
+        "text": "myalgia",
+        "label": "GPE"
+      },
+      {
+        "text": "18",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 19,
+    "entities": [
+      {
+        "text": "DOSAGE",
+        "label": "GPE"
+      },
+      {
+        "text": "ADMINISTRATION",
+        "label": "ORG"
+      },
+      {
+        "text": "serum creatinine",
+        "label": "ORG"
+      },
+      {
+        "text": "annual",
+        "label": "DATE"
+      },
+      {
+        "text": "B12",
+        "label": "ORG"
+      },
+      {
+        "text": "Drug Interactions",
+        "label": "ORG"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "AUC",
+        "label": "ORG"
+      },
+      {
+        "text": "Cmax",
+        "label": "PERSON"
+      },
+      {
+        "text": "22%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "15%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "31%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "12%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "32%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "19",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 20,
+    "entities": [
+      {
+        "text": "AUC",
+        "label": "ORG"
+      },
+      {
+        "text": "20% and",
+        "label": "PERCENT"
+      },
+      {
+        "text": "9%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Nifedipine",
+        "label": "PERSON"
+      },
+      {
+        "text": "60%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "40%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Metformin",
+        "label": "PERSON"
+      },
+      {
+        "text": "cimetidine",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Metformin",
+        "label": "PERSON"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 21,
+    "entities": [
+      {
+        "text": "Carcinogenesis, Mutagenesis",
+        "label": "ORG"
+      },
+      {
+        "text": "Impairment of Fertility \nLong",
+        "label": "ORG"
+      },
+      {
+        "text": "104 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "91 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "1500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "approximately 4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "2000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "600 mg/kg",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "approximately 3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "600",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "about 2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "2000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "21",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 22,
+    "entities": [
+      {
+        "text": "Determination of fetal",
+        "label": "ORG"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "ages 10 to 16 years",
+        "label": "DATE"
+      },
+      {
+        "text": "the age of 10 years",
+        "label": "DATE"
+      },
+      {
+        "text": "ages 10 to 16 years",
+        "label": "DATE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "2000",
+        "label": "DATE"
+      },
+      {
+        "text": "Assess",
+        "label": "ORG"
+      },
+      {
+        "text": "WARNINGS",
+        "label": "ORG"
+      },
+      {
+        "text": "DOSAGE",
+        "label": "GPE"
+      },
+      {
+        "text": "22",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 23,
+    "entities": [
+      {
+        "text": "US",
+        "label": "GPE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "141",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2550",
+        "label": "DATE"
+      },
+      {
+        "text": "145",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "greater than 5%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "Table 11",
+        "label": "LAW"
+      },
+      {
+        "text": "11",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5.0 Percent",
+        "label": "PERCENT"
+      },
+      {
+        "text": "Placebo",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "53.2 \n11.7 \nNausea/Vomiting",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "25.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8.3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "12.1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "9.2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5.5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "7.1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4.1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Abdominal Discomfort",
+        "label": "PERSON"
+      },
+      {
+        "text": "6.4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5.7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4.8",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Diarrhea",
+        "label": "PERSON"
+      },
+      {
+        "text": "6%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "≥1.0%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "myalgia",
+        "label": "GPE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "781",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "195",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "greater than 5%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "Table 12",
+        "label": "LAW"
+      },
+      {
+        "text": "23",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 24,
+    "entities": [
+      {
+        "text": "12",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5.0 Percent",
+        "label": "PERCENT"
+      },
+      {
+        "text": "Placebo-Controlled Studies",
+        "label": "ORG"
+      },
+      {
+        "text": "Placebo",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "9.6 \n2.6 \nNausea/Vomiting \n6.5 \n1.5",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "Diarrhea",
+        "label": "PERSON"
+      },
+      {
+        "text": "0.6%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "≥1.0%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "50 grams",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "approximately 10%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "approximately 32%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "WARNINGS",
+        "label": "ORG"
+      },
+      {
+        "text": "Metformin",
+        "label": "PERSON"
+      },
+      {
+        "text": "170",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "GLUCOPHAGE",
+        "label": "ORG"
+      },
+      {
+        "text": "2550",
+        "label": "DATE"
+      },
+      {
+        "text": "2000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "24",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 25,
+    "entities": [
+      {
+        "text": "10-16 years of age",
+        "label": "DATE"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "2000",
+        "label": "DATE"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "evening",
+        "label": "TIME"
+      },
+      {
+        "text": "approximately 3 months",
+        "label": "DATE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Dosage",
+        "label": "GPE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "weekly",
+        "label": "DATE"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "2000",
+        "label": "DATE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "25",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 26,
+    "entities": [
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "2550",
+        "label": "DATE"
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "evening",
+        "label": "TIME"
+      },
+      {
+        "text": "Dosage",
+        "label": "GPE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "weekly",
+        "label": "DATE"
+      },
+      {
+        "text": "2000",
+        "label": "DATE"
+      },
+      {
+        "text": "evening",
+        "label": "TIME"
+      },
+      {
+        "text": "2000",
+        "label": "DATE"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "2550",
+        "label": "DATE"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "2000",
+        "label": "DATE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2000",
+        "label": "DATE"
+      },
+      {
+        "text": "Renal Impairment \nAssess",
+        "label": "ORG"
+      },
+      {
+        "text": "30 mL",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "45",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 27,
+    "entities": [
+      {
+        "text": "30",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Discontinuation for Iodinated Contrast Imaging Procedures \nDiscontinue",
+        "label": "ORG"
+      },
+      {
+        "text": "48 hours",
+        "label": "TIME"
+      },
+      {
+        "text": "4 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1000/20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1500/20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2000/20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2500/20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FPG",
+        "label": "ORG"
+      },
+      {
+        "text": "1 to 3 months",
+        "label": "DATE"
+      },
+      {
+        "text": "27",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 28,
+    "entities": [
+      {
+        "text": "Insulin \nTherapy",
+        "label": "PERSON"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "approximately 1 week",
+        "label": "DATE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "2500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "10% to 25%",
+        "label": "PERCENT"
+      },
+      {
+        "text": "less than 120",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "the age of 10 years",
+        "label": "DATE"
+      },
+      {
+        "text": "the age of 17 years",
+        "label": "DATE"
+      },
+      {
+        "text": "28",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 29,
+    "entities": [
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "100",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0087-6060",
+        "label": "DATE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0087-6060-10",
+        "label": "DATE"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "100",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0087-6070-05",
+        "label": "DATE"
+      },
+      {
+        "text": "100",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0087-6071-11",
+        "label": "DATE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6060",
+        "label": "DATE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6070",
+        "label": "DATE"
+      },
+      {
+        "text": "850",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6071",
+        "label": "DATE"
+      },
+      {
+        "text": "1000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "100",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0087-6063-13",
+        "label": "DATE"
+      },
+      {
+        "text": "750",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "100",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0087-6064-13",
+        "label": "DATE"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "750",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6064",
+        "label": "DATE"
+      },
+      {
+        "text": "750",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "20°–25",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "68",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "–77° F",
+        "label": "PERSON"
+      },
+      {
+        "text": "15°–30",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "59",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Merck Santé",
+        "label": "PERSON"
+      },
+      {
+        "text": "Merck KGaA",
+        "label": "PERSON"
+      },
+      {
+        "text": "29",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 30,
+    "entities": [
+      {
+        "text": "Darmstadt",
+        "label": "GPE"
+      },
+      {
+        "text": "Germany",
+        "label": "GPE"
+      },
+      {
+        "text": "Bristol-Myers Squibb Company",
+        "label": "ORG"
+      },
+      {
+        "text": "Bristol-Myers Squibb Company \n",
+        "label": "ORG"
+      },
+      {
+        "text": "08543",
+        "label": "DATE"
+      },
+      {
+        "text": "April 2017",
+        "label": "DATE"
+      },
+      {
+        "text": "30",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 31,
+    "entities": [
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "31",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 32,
+    "entities": [
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "younger than 10",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "32",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 33,
+    "entities": [
+      {
+        "text": "Metformin",
+        "label": "PERSON"
+      },
+      {
+        "text": "33",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 34,
+    "entities": [
+      {
+        "text": "more than a few weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "About 3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "100",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "34",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "page_number": 35,
+    "entities": [
+      {
+        "text": "Merck Santé",
+        "label": "PERSON"
+      },
+      {
+        "text": "Merck KGaA",
+        "label": "PERSON"
+      },
+      {
+        "text": "Darmstadt",
+        "label": "GPE"
+      },
+      {
+        "text": "Germany",
+        "label": "GPE"
+      },
+      {
+        "text": "Bristol-Myers Squibb Company",
+        "label": "ORG"
+      },
+      {
+        "text": "Bristol-Myers Squibb Company \n",
+        "label": "ORG"
+      },
+      {
+        "text": "08543",
+        "label": "DATE"
+      },
+      {
+        "text": "April 2017",
+        "label": "DATE"
+      },
+      {
+        "text": "35",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4079189",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "FDA",
+        "label": "ORG"
+      },
+      {
+        "text": "https://www.fda.gov/drugsatfda",
+        "label": "ORG"
+      }
+    ]
+  }
+]

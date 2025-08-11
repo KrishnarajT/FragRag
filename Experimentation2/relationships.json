@@ -1,0 +1,1792 @@
+[
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "relatedTo",
+    "target": "Metformin"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "hasFormula",
+    "target": "C4H11N5 • HCl"
+  },
+  {
+    "source": "metformin",
+    "relationship": "contains",
+    "target": "povidone"
+  },
+  {
+    "source": "metformin",
+    "relationship": "contains",
+    "target": "magnesium stearate"
+  },
+  {
+    "source": "GLUCOPHAGE tablets",
+    "relationship": "contain",
+    "target": "metformin hydrochloride"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "contain",
+    "target": "metformin hydrochloride"
+  },
+  {
+    "source": "sodium carboxymethyl cellulose",
+    "relationship": "ingredient",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "hypromellose",
+    "relationship": "ingredient",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "magnesium stearate",
+    "relationship": "ingredient",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "metformin hydrochloride",
+    "relationship": "component",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "polymer matrix system",
+    "relationship": "component",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "improves",
+    "target": "glucose tolerance"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "decreases",
+    "target": "hepatic glucose production"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "decreases",
+    "target": "intestinal absorption of glucose"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "increases",
+    "target": "peripheral glucose uptake"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "utilizes",
+    "target": "glucose"
+  },
+  {
+    "source": "metformin",
+    "relationship": "absorption",
+    "target": "plasma concentration"
+  },
+  {
+    "source": "food",
+    "relationship": "decreases",
+    "target": "extent of absorption"
+  },
+  {
+    "source": "food",
+    "relationship": "slightly delays",
+    "target": "time to peak plasma concentration"
+  },
+  {
+    "source": "metformin",
+    "relationship": "decreased absorption",
+    "target": "increasing doses"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "",
+    "target": ""
+  },
+  {
+    "source": "FDA",
+    "relationship": "",
+    "target": ""
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "similar extent of absorption",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "less than dose proportional",
+    "target": "once daily doses"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "peak plasma levels",
+    "target": "2000 mg once-daily doses"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "administered",
+    "target": "metformin"
+  },
+  {
+    "source": "metformin",
+    "relationship": "partitioned into",
+    "target": "erythrocytes"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "partitions",
+    "target": "erythrocytes"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "doses",
+    "target": "metformin"
+  },
+  {
+    "source": "metformin",
+    "relationship": "plasma levels",
+    "target": "<1 µg/mL"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "maximum doses",
+    "target": "5 µg/mL"
+  },
+  {
+    "source": "metformin",
+    "relationship": "excreted",
+    "target": "urine"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "elimination",
+    "target": "renal route"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "absorption",
+    "target": "oral administration"
+  },
+  {
+    "source": "metformin",
+    "relationship": "excretion",
+    "target": "biliary excretion"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "clearance",
+    "target": "renal clearance"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "half-life",
+    "target": "plasma elimination half-life"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "half-life",
+    "target": "blood elimination half-life"
+  },
+  {
+    "source": "Renal Impairment",
+    "relationship": "related to",
+    "target": "Metformin"
+  },
+  {
+    "source": "Hepatic Impairment",
+    "relationship": "related to",
+    "target": "Metformin"
+  },
+  {
+    "source": "Geriatrics",
+    "relationship": "affected by",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "is decreased",
+    "target": "total plasma clearance"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "is prolonged",
+    "target": "half-life"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "is increased",
+    "target": "Cmax"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "dosea",
+    "target": "healthy, nondiabetic adults"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "dosea",
+    "target": "adults with type 2 diabetes"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "dosea",
+    "target": "elderly, healthy nondiabetic adults"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "dosea",
+    "target": "renal-impaired adults"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "mentioned in",
+    "target": "Pediatrics"
+  },
+  {
+    "source": "CLcr",
+    "relationship": "related to",
+    "target": "creatinine clearance"
+  },
+  {
+    "source": "Gender",
+    "relationship": "related_to",
+    "target": "Metformin"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "does_not_differ_significantly",
+    "target": "patients with type 2 diabetes"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "antihyperglycemic effect",
+    "target": "Plasma Glucose"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "comparable in",
+    "target": "whites"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "comparable in",
+    "target": "blacks"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "comparable in",
+    "target": "Hispanics"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": "Placebo"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": "Plasma Glucose"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": "Hemoglobin A1c"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": "Body Weight"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "used in combination with",
+    "target": "glyburide"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "dose adjusted by",
+    "target": "500 mg"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "taken by",
+    "target": "patients"
+  },
+  {
+    "source": "metformin",
+    "relationship": "taken by",
+    "target": "patients"
+  },
+  {
+    "source": "glyburide",
+    "relationship": "taken by",
+    "target": "patients"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "used in combination with",
+    "target": "glyburide"
+  },
+  {
+    "source": "Fasting Plasma Glucose",
+    "relationship": "Change at FINAL VISIT",
+    "target": "-63.5"
+  },
+  {
+    "source": "Hemoglobin A1c",
+    "relationship": "Change at FINAL VISIT",
+    "target": "-1.7"
+  },
+  {
+    "source": "Body Weight",
+    "relationship": "Change at FINAL VISIT",
+    "target": "0.9"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "lowered",
+    "target": "mean fasting serum triglycerides"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "lowered",
+    "target": "total cholesterol"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "lowered",
+    "target": "LDL cholesterol"
+  },
+  {
+    "source": "Patients with type 2 diabetes",
+    "relationship": "experienced",
+    "target": "greater declines in plasma glucose and glycosylated hemoglobin"
+  },
+  {
+    "source": "FDA",
+    "relationship": "relatedTo",
+    "target": "https://www.fda.gov/drugsatfda"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "vs",
+    "target": "Placebo"
+  },
+  {
+    "source": "GLUCOPHAGE/Glyburide",
+    "relationship": "vs",
+    "target": "Monotherapy"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "tended to remain stable or even decrease somewhat",
+    "target": "Body Weight"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "plus insulin",
+    "target": "insulin"
+  },
+  {
+    "source": "GLUCOPHAGE plus insulin",
+    "relationship": "achieved a reduction",
+    "target": "Hemoglobin A1c"
+  },
+  {
+    "source": "GLUCOPHAGE plus insulin",
+    "relationship": "compared to",
+    "target": "insulin plus placebo"
+  },
+  {
+    "source": "GLUCOPHAGE plus insulin",
+    "relationship": "achieved at the final study visit with",
+    "target": "16% less insulin"
+  },
+  {
+    "source": "Table 5",
+    "relationship": "relatedTo",
+    "target": "Placebo-Controlled Studies"
+  },
+  {
+    "source": "GLUCOPHAGE/Insulin",
+    "relationship": "comparedTo",
+    "target": "Placebo/Insulin"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "relatedTo",
+    "target": "Placebo"
+  },
+  {
+    "source": "Basline",
+    "relationship": "relatedTo",
+    "target": "FINAL VISIT"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "maintained",
+    "target": "glycemic control"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "resulted in",
+    "target": "reduction in body weight"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "taken with",
+    "target": "evening meal"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "",
+    "target": "Once Daily"
+  },
+  {
+    "source": "Placebo",
+    "relationship": "",
+    "target": "Patients"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "",
+    "target": "Patients"
+  },
+  {
+    "source": "Placebo",
+    "relationship": "",
+    "target": "Placebo group"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "",
+    "target": "patients treated with GLUCOPHAGE XR"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "compared with",
+    "target": "placebo group"
+  },
+  {
+    "source": "Twice Daily",
+    "relationship": "taken with",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "once daily with meals",
+    "target": "evening meal"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "twice daily with meals",
+    "target": "meals"
+  },
+  {
+    "source": "Placebo",
+    "relationship": "control group",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "HbA1c",
+    "relationship": "change from baseline",
+    "target": "final visit"
+  },
+  {
+    "source": "Placebo",
+    "relationship": "Comparison",
+    "target": "GLUCOPHAGE XR Extended-Release Tablets"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "Treatment",
+    "target": "Glycemic Control"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "taken",
+    "target": "twice daily"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "taken",
+    "target": "evening meal"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "taken",
+    "target": "once daily"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "dose",
+    "target": "500 mg"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "dose",
+    "target": "twice daily"
+  },
+  {
+    "source": "study",
+    "relationship": "conducted",
+    "target": "patients with type 2 diabetes"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": ""
+  },
+  {
+    "source": "Twice Daily \nGLUCOPHAGE XR \n1000",
+    "relationship": "",
+    "target": ""
+  },
+  {
+    "source": "Once Daily",
+    "relationship": "",
+    "target": "Hemoglobin A1c"
+  },
+  {
+    "source": "Plasma Glucose",
+    "relationship": "",
+    "target": ""
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "",
+    "target": ""
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "treats",
+    "target": "Hemoglobin A1c"
+  },
+  {
+    "source": "Twice Daily\nGLUCOPHAGE XR\n1000",
+    "relationship": "dose",
+    "target": "Hemoglobin A1c"
+  },
+  {
+    "source": "Total Cholesterol",
+    "relationship": "has_mean_percent_change_at_final_visit",
+    "target": "Baseline"
+  },
+  {
+    "source": "Total Triglycerides",
+    "relationship": "has_mean_percent_change_at_final_visit",
+    "target": "Baseline"
+  },
+  {
+    "source": "LDL-Cholesterol",
+    "relationship": "has_mean_percent_change_at_final_visit",
+    "target": "Baseline"
+  },
+  {
+    "source": "HDL-Cholesterol",
+    "relationship": "has_mean_percent_change_at_final_visit",
+    "target": "Baseline"
+  },
+  {
+    "source": "HDL-Cholesterol",
+    "relationship": "",
+    "target": ""
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "",
+    "target": ""
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": ""
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "relatedTo",
+    "target": "Total Cholesterol"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "relatedTo",
+    "target": "Twice Daily \nTotal Cholesterol"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "treats",
+    "target": "Type 2 diabetes"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "compared to",
+    "target": "Placebo"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "results in",
+    "target": "Significant mean net reduction in FPG"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "indicated as an adjunct to",
+    "target": "diet and exercise"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "indicated for use in",
+    "target": "adults and children with type 2 diabetes mellitus"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "contraindicated in patients with",
+    "target": "Severe renal impairment"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "contraindicated in patients with",
+    "target": "Known hypersensitivity to metformin hydrochloride"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "contraindicated in patients with",
+    "target": "Acute or chronic metabolic acidosis"
+  },
+  {
+    "source": "metformin",
+    "relationship": "associated",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "discontinue",
+    "target": "metformin-associated lactic acidosis"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "discontinue",
+    "target": "metformin-associated lactic acidosis"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "decreases",
+    "target": "liver uptake of lactate"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "increasing",
+    "target": "lactate blood levels"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "relatedTo",
+    "target": "metformin"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "relatedTo",
+    "target": "metformin"
+  },
+  {
+    "source": "metformin",
+    "relationship": "associatedWith",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "Renal",
+    "relationship": "associated_with",
+    "target": "Metformin"
+  },
+  {
+    "source": "Renal Impairment",
+    "relationship": "risk_factor_for",
+    "target": "metformin-associated lactic acidosis"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "contraindicated",
+    "target": "patients with an eGFR less than 30 mL/min/1.73 m2"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "not recommended",
+    "target": "patients with eGFR between 30-45 mL/min/1.73 m2"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "contraindicated",
+    "target": "patients with an eGFR less than 30 mL/min/1.73 m2"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "not recommended",
+    "target": "patients with eGFR between 30-45 mL/min/1.73 m2"
+  },
+  {
+    "source": "specific drugs",
+    "relationship": "may increase the risk of metformin-associated lactic acidosis",
+    "target": "GLUCOPHAGE or GLUCOPHAGE XR"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "Discontinue",
+    "target": "Iodinated Contrast Imaging Procedures"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "Restart",
+    "target": "Renal Function"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "associated_with",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "potentiated_by",
+    "target": "alcohol"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "discontinued_during",
+    "target": "cardiovascular collapse (shock)"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "discontinued_during",
+    "target": "acute myocardial infarction"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "discontinued_during",
+    "target": "sepsis"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "used in",
+    "target": "patients"
+  },
+  {
+    "source": "Vitamin B12",
+    "relationship": "interference with absorption",
+    "target": "B12-intrinsic factor complex"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "associated with",
+    "target": "decrease in vitamin B12 levels"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "advised",
+    "target": "patients"
+  },
+  {
+    "source": "vitamin B12",
+    "relationship": "predisposed to developing",
+    "target": "subnormal levels"
+  },
+  {
+    "source": "routine serum vitamin B12 measurements",
+    "relationship": "may be useful",
+    "target": "certain individuals"
+  },
+  {
+    "source": "Elderly",
+    "relationship": "susceptible to",
+    "target": "hypoglycemic effects"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "antidiabetic drug",
+    "target": null
+  },
+  {
+    "source": "Patients",
+    "relationship": "should be informed of",
+    "target": "potential risks and benefits"
+  },
+  {
+    "source": "Patients",
+    "relationship": "should be informed about",
+    "target": "adherence to dietary instructions"
+  },
+  {
+    "source": "Patients",
+    "relationship": "should be informed about",
+    "target": "regular exercise program"
+  },
+  {
+    "source": "Patients",
+    "relationship": "should be informed about",
+    "target": "regular testing of blood glucose"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "is related to",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "patients",
+    "relationship": "should be advised to",
+    "target": "discontinue GLUCOPHAGE or GLUCOPHAGE XR"
+  },
+  {
+    "source": "patients",
+    "relationship": "should be counseled against",
+    "target": "excessive alcohol intake"
+  },
+  {
+    "source": "Patients",
+    "relationship": "should be counseled against",
+    "target": "excessive alcohol intake"
+  },
+  {
+    "source": "GLUCOPHAGE or GLUCOPHAGE XR",
+    "relationship": "does not usually cause",
+    "target": "hypoglycemia"
+  },
+  {
+    "source": "GLUCOPHAGE or GLUCOPHAGE XR",
+    "relationship": "may occur when used in conjunction with",
+    "target": "oral sulfonylureas and insulin"
+  },
+  {
+    "source": "Patients",
+    "relationship": "should be informed that",
+    "target": "GLUCOPHAGE XR must be swallowed whole"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "related to",
+    "target": "Plasma Glucose"
+  },
+  {
+    "source": "Hemoglobin A1c",
+    "relationship": "monitored by",
+    "target": "GLUCOPHAGE"
+  },
+  {
+    "source": "serum creatinine",
+    "relationship": "monitored by",
+    "target": "GLUCOPHAGE"
+  },
+  {
+    "source": "Vitamin B12",
+    "relationship": "related to",
+    "target": "megaloblastic anemia"
+  },
+  {
+    "source": "Vitamin B12",
+    "relationship": "deficiency",
+    "target": "should be excluded"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "may be required",
+    "target": "renal function has been confirmed to be normal"
+  },
+  {
+    "source": "metformin",
+    "relationship": "pharmacokinetics or pharmacodynamics",
+    "target": "glyburide"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "interacts with",
+    "target": "Furosemide"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "increases",
+    "target": "plasma and blood Cmax"
+  },
+  {
+    "source": "Furosemide",
+    "relationship": "",
+    "target": "Renal"
+  },
+  {
+    "source": "Nifedipine",
+    "relationship": "enhance",
+    "target": "Metformin"
+  },
+  {
+    "source": "Cimetidine",
+    "relationship": "interact",
+    "target": "Metformin"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "may increase",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "metformin",
+    "relationship": "increase",
+    "target": "peak metformin plasma and whole blood concentrations"
+  },
+  {
+    "source": "metformin",
+    "relationship": "increase",
+    "target": "plasma and whole blood metformin AUC"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "has no effect on",
+    "target": "cimetidine pharmacokinetics"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "not affected when coadministered with",
+    "target": "propranolol"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "interacts",
+    "target": "salicylates"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "interacts",
+    "target": "sulfonamides"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "interacts",
+    "target": "chloramphenicol"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "interacts",
+    "target": "probenecid"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "does not interact",
+    "target": "sulfonylureas"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "should be observed for loss of blood glucose control",
+    "target": "drugs that tend to produce hyperglycemia"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "should be observed for hypoglycemia when drugs are withdrawn",
+    "target": "drugs that tend to produce hyperglycemia"
+  },
+  {
+    "source": "Topiramate",
+    "relationship": "cause",
+    "target": "decrease in serum bicarbonate"
+  },
+  {
+    "source": "acetazolamide or dichlorphenamide",
+    "relationship": "cause",
+    "target": "non-anion gap, hyperchloremic metabolic acidosis"
+  },
+  {
+    "source": "these drugs",
+    "relationship": "may increase the risk for",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "potentiate the effect of",
+    "target": "lactate metabolism"
+  },
+  {
+    "source": "Alcohol",
+    "relationship": "potentiate the effect of",
+    "target": "metformin on lactate metabolism"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "receive",
+    "target": "Metformin"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "receive",
+    "target": "Metformin"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "associated with",
+    "target": "abnormal blood glucose levels during pregnancy"
+  },
+  {
+    "source": "Insulin",
+    "relationship": "used",
+    "target": "to maintain blood glucose levels as close to normal as possible"
+  },
+  {
+    "source": "Insulin",
+    "relationship": "used",
+    "target": "pregnancy"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "should not be used",
+    "target": "pregnancy"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "not teratogenic",
+    "target": "rats and rabbits"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "should be considered",
+    "target": "insulin therapy"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "discontinued",
+    "target": "nursing"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "discontinued",
+    "target": "the drug"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": "Pediatric"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "used in",
+    "target": "ages 10 to 16 years"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "recommended daily dose of",
+    "target": "2000 mg"
+  },
+  {
+    "source": "Elderly",
+    "relationship": "respond differently from",
+    "target": "younger patients"
+  },
+  {
+    "source": "Elderly",
+    "relationship": "have decreased hepatic, renal, or cardiac function",
+    "target": null
+  },
+  {
+    "source": "Elderly",
+    "relationship": "have concomitant disease or other drug therapy",
+    "target": null
+  },
+  {
+    "source": "Elderly",
+    "relationship": "are at higher risk of lactic acidosis",
+    "target": null
+  },
+  {
+    "source": "Elderly patients",
+    "relationship": "should have their renal function assessed more frequently",
+    "target": null
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "more common in",
+    "target": "Placebo"
+  },
+  {
+    "source": "Diarrhea",
+    "relationship": "led to discontinuation of study medication",
+    "target": "patients treated with GLUCOPHAGE"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "reported in",
+    "target": "Diarrhea"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "led to discontinuation of study medication in",
+    "target": "study medication"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "more commonly reported with",
+    "target": "placebo"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "reported in greater than",
+    "target": "reactions"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "",
+    "target": "Diarrhea"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "",
+    "target": "Nausea/Vomiting"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "",
+    "target": "Cholestatic, hepatocellular, and mixed hepatocellular liver injury"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "",
+    "target": "Pediatric Patients"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "used for treatment of",
+    "target": "Type 2 Diabetes"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "similar adverse reactions in pediatric patients",
+    "target": "Adults"
+  },
+  {
+    "source": "Metformin hydrochloride",
+    "relationship": "associated with",
+    "target": "Lactic acidosis"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "dialyzable with clearance of up to",
+    "target": "170 mL/min"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "Dosage of",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "DOSAGE",
+    "relationship": "must be individualized on the basis of",
+    "target": "effectiveness and tolerance"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "should be given",
+    "target": "meals"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "should be given",
+    "target": "evening meal"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "should be started at a low dose, with gradual dose escalation",
+    "target": "patient"
+  },
+  {
+    "source": "GLUCOPHAGE or GLUCOPHAGE XR",
+    "relationship": "should be used to determine the therapeutic response",
+    "target": "plasma glucose"
+  },
+  {
+    "source": "GLUCOPHAGE or GLUCOPHAGE XR",
+    "relationship": "should be used to identify the minimum effective dose",
+    "target": "patient"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "used as",
+    "target": "Insulin"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "used as",
+    "target": "Sulfonylurea"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "must be taken with",
+    "target": "meals"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "given",
+    "target": "Adults"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "increased",
+    "target": "dosage"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "individualized",
+    "target": "basis of both effectiveness and tolerability"
+  },
+  {
+    "source": "Patients",
+    "relationship": "can be titrated from",
+    "target": "Dosage"
+  },
+  {
+    "source": "FDA",
+    "relationship": "approve",
+    "target": "label"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "may be given to",
+    "target": "patients"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "should be used at",
+    "target": "dosage"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "is the usual starting dose of",
+    "target": "metformin hydrochloride"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "must be individualized on the basis of",
+    "target": "effectiveness and tolerability"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "should be considered for",
+    "target": "glycemic control"
+  },
+  {
+    "source": "metformin",
+    "relationship": "are required, GLUCOPHAGE should be used at",
+    "target": "total daily doses"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "should be considered",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "used at",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "switched to",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "given with",
+    "target": "meals"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "must be individualized",
+    "target": "dosage"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "contraindicated",
+    "target": "patients with an estimated glomerular filtration rate below 30 mL/minute/1.73 m2"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "not recommended",
+    "target": "patients with an eGFR between 30 – 45 mL/minute/1.73 m2"
+  },
+  {
+    "source": "GLUCOPHAGE or GLUCOPHAGE XR",
+    "relationship": "assess the benefit risk of continuing therapy",
+    "target": "patients taking GLUCOPHAGE or GLUCOPHAGE XR whose eGFR later falls below 45 mL/min/1.73 m2"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "related to",
+    "target": "Discontinuation for Iodinated Contrast Imaging Procedures"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "related to",
+    "target": "Renal Impairment"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "related to",
+    "target": "Discontinuation for Iodinated Contrast Imaging Procedures"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "related to",
+    "target": "Renal Impairment"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "",
+    "target": "sulfonylurea"
+  },
+  {
+    "source": "metformin",
+    "relationship": "plus",
+    "target": "glyburide"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "concomitant therapy",
+    "target": "sulfonylurea"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "concomitant therapy",
+    "target": "Insulin"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "concomitant therapy",
+    "target": "sulfonylurea"
+  },
+  {
+    "source": "Insulin",
+    "relationship": "Therapy",
+    "target": "Patients"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "Therapy",
+    "target": "Patients"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "Therapy",
+    "target": "Patients"
+  },
+  {
+    "source": "Insulin Dose",
+    "relationship": "Decreased By",
+    "target": "%"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "not recommended",
+    "target": "pregnancy"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "not recommended",
+    "target": "patients below the age of 10 years"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "not recommended",
+    "target": "pediatric patients (below the age of 17 years)"
+  },
+  {
+    "source": "GLUCOPHAGE or GLUCOPHAGE XR",
+    "relationship": "conservative initial and maintenance dosing",
+    "target": "patients with advanced age"
+  },
+  {
+    "source": "Any dosage adjustment",
+    "relationship": "based on",
+    "target": "renal function"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": "500 mg"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": "850 mg"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": "1000 mg"
+  },
+  {
+    "source": "Bristol-Myers Squibb Company",
+    "relationship": "",
+    "target": "GLUCOPHAGE"
+  },
+  {
+    "source": "Merck Santé S.A.S.",
+    "relationship": "associate",
+    "target": "Merck KGaA"
+  },
+  {
+    "source": "Bristol-Myers Squibb Company",
+    "relationship": "none",
+    "target": null
+  },
+  {
+    "source": "Bristol-Myers Squibb Company",
+    "relationship": "Licensed to",
+    "target": "FDA"
+  },
+  {
+    "source": "Bristol-Myers Squibb Company",
+    "relationship": "Distributed by",
+    "target": "Bristol-Myers Squibb Company"
+  },
+  {
+    "source": "https://www.fda.gov/drugsatfda",
+    "relationship": "Visit for current labeling information",
+    "target": null
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "used to treat",
+    "target": "type 2 diabetes"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "used to treat",
+    "target": "non-insulin-dependent diabetes mellitus"
+  },
+  {
+    "source": "diabetes",
+    "relationship": "causes",
+    "target": "kidney damage"
+  },
+  {
+    "source": "diabetes",
+    "relationship": "causes",
+    "target": "amputations"
+  },
+  {
+    "source": "diabetes",
+    "relationship": "causes",
+    "target": "blindness"
+  },
+  {
+    "source": "diabetes",
+    "relationship": "linked to",
+    "target": "heart disease"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "has same active ingredient as",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "helps control",
+    "target": "blood sugar"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "works longer in",
+    "target": "body"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "helps body respond better to",
+    "target": "insulin"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "decreases amount of sugar produced by",
+    "target": "liver"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "decreases amount of sugar absorbed by",
+    "target": "intestines"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "increases risk of",
+    "target": "hypoglycemia"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "may cause",
+    "target": "weight gain"
+  },
+  {
+    "source": "doctor",
+    "relationship": "consult",
+    "target": "patient"
+  },
+  {
+    "source": "patient",
+    "relationship": "need_to_discuss",
+    "target": "doctor"
+  },
+  {
+    "source": "doctor",
+    "relationship": "inform",
+    "target": "patient"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "lower",
+    "target": "glucose_levels"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "study",
+    "target": "children"
+  },
+  {
+    "source": "Your doctor",
+    "relationship": "will tell",
+    "target": "you"
+  },
+  {
+    "source": "You",
+    "relationship": "should take",
+    "target": "GLUCOPHAGE or GLUCOPHAGE XR"
+  },
+  {
+    "source": "You",
+    "relationship": "will start out with a low dose of the medicine",
+    "target": "the medicine"
+  },
+  {
+    "source": "Your doctor",
+    "relationship": "may slowly increase your dose",
+    "target": "your blood sugar"
+  },
+  {
+    "source": "GLUCOPHAGE or GLUCOPHAGE XR",
+    "relationship": "should be taken with meals",
+    "target": "meals"
+  },
+  {
+    "source": "Your doctor",
+    "relationship": "may have you take other medicines",
+    "target": "other medicines"
+  },
+  {
+    "source": "GLUCOPHAGE or GLUCOPHAGE XR",
+    "relationship": "may help you better control your blood sugar",
+    "target": "blood sugar"
+  },
+  {
+    "source": "GLUCOPHAGE or GLUCOPHAGE XR",
+    "relationship": "may help you reduce the insulin dose",
+    "target": "insulin"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "mentioned",
+    "target": "diabetes"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "causes_harm",
+    "target": "liver"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "causes_harm",
+    "target": "kidneys"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "mentioned",
+    "target": "diabetes"
+  },
+  {
+    "source": "surgery",
+    "relationship": "requires_stop",
+    "target": "GLUCOPHAGE"
+  },
+  {
+    "source": "x-ray procedure with injection of dye (contrast agent)",
+    "relationship": "requires_stop",
+    "target": "GLUCOPHAGE"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "can affect",
+    "target": "other drugs"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "can be affected by",
+    "target": "other drugs"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "must be swallowed whole",
+    "target": null
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "should not be crushed or chewed",
+    "target": null
+  },
+  {
+    "source": "alcohol",
+    "relationship": "can increase the chance of getting",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "can cause",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "can cause",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "can lead to",
+    "target": "death"
+  },
+  {
+    "source": "Metformin",
+    "relationship": "causes",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "metformin",
+    "relationship": "leads to",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "can cause",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "can cause",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "severe kidney problems",
+    "relationship": "increases risk of",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "certain x-ray tests that use injectable dye",
+    "relationship": "affects",
+    "target": "kidneys"
+  },
+  {
+    "source": "liver problems",
+    "relationship": "increases risk of",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "alcohol consumption",
+    "relationship": "increases risk of",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "dehydration",
+    "relationship": "increases risk of",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "surgery",
+    "relationship": "can increase risk of",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "heart attack",
+    "relationship": "can increase risk of",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "severe infection",
+    "relationship": "can increase risk of",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "stroke",
+    "relationship": "can increase risk of",
+    "target": "lactic acidosis"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": "Diarrhea"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": "Nausea"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "",
+    "target": "Upset Stomach"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "",
+    "target": "Diarrhea"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "",
+    "target": "Nausea"
+  },
+  {
+    "source": "GLUCOPHAGE XR",
+    "relationship": "",
+    "target": "Upset Stomach"
+  },
+  {
+    "source": "Unpleasant Metallic Taste",
+    "relationship": "",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "Hypoglycemia (Low Blood Sugar)",
+    "relationship": "",
+    "target": "GLUCOPHAGE"
+  },
+  {
+    "source": "Hypoglycemia (Low Blood Sugar)",
+    "relationship": "",
+    "target": "GLUCOPHAGE XR"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "related_to",
+    "target": "GLU"
+  },
+  {
+    "source": "FDA",
+    "relationship": "approved_by",
+    "target": null
+  },
+  {
+    "source": "https://www.fda.gov/drugsatfda",
+    "relationship": "referenced_url",
+    "target": null
+  },
+  {
+    "source": "Merck Santé",
+    "relationship": "associate of",
+    "target": "Merck KGaA"
+  },
+  {
+    "source": "GLUCOPHAGE",
+    "relationship": "registered trademark of",
+    "target": "Merck Santé"
+  },
+  {
+    "source": "Bristol-Myers Squibb Company",
+    "relationship": "licensed to",
+    "target": "Merck Santé"
+  }
+]
