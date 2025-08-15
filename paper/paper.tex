@@ -17,18 +17,27 @@
 
 \begin{document}
 
-\title{Automated Knowledge Graph Construction and Querying from Scientific Texts using Graph RAG: A Novel Pipeline for Entity Extraction and Relationship Synthesis}
+\title{Comparative Analysis of Graph-Based Retrieval-Augmented Generation and Conventional RAG Methods}
 
-\author{\IEEEauthorblockN{Author Name}
-\IEEEauthorblockA{Institution\\
-City, Country\\
-Email: author@institution.edu}
+\author{
+    \IEEEauthorblockN{Krishnaraj Thadesar}
+    \IEEEauthorblockA{
+        Pune, India \\
+        Email: kpt.krishnaraj@gmail.com
+    }
+    \and
+    \IEEEauthorblockN{Aaron Philip}
+    \IEEEauthorblockA{
+        Pune, India \\
+        Email: aaronphilip2003@gmail.com
+    }
 }
+
 
 \maketitle
 
 \begin{abstract}
-This paper presents a novel automated pipeline for constructing and querying knowledge graphs from scientific text, specifically designed for paragraphs extracted from PDF documents. The proposed Graph RAG (Retrieval-Augmented Generation) solution leverages Named Entity Recognition (NER) using spaCy, semantic chunking with sentence transformers, embedding-based retrieval via FAISS, and Large Language Model (LLM)-driven Cypher query generation to automate the transformation of unstructured scientific text into a structured property graph in Neo4j. The system implements a two-phase approach: first constructing the knowledge graph through intelligent entity extraction and relationship synthesis, then enabling natural language querying through semantic retrieval and LLM-driven query generation. Experimental results demonstrate the pipeline's effectiveness in automatically extracting entities, synthesizing relationships, and providing accurate answers to natural language queries through graph traversal. The proposed architecture addresses the critical need for scalable, automated knowledge graph construction from scientific literature while maintaining semantic accuracy and query flexibility.
+Retrieval-Augmented Generation (RAG) has emerged as a powerful paradigm for enhancing large language models with external knowledge. However, conventional RAG pipelines often treat retrieved documents as independent, neglecting the rich relational structure that can exist between knowledge elements, and they exhibit notable weaknesses in handling cardinality-related information such as counts, dates, and numerical constraints. These limitations arise from the lack of explicit representation of relationships and quantities in unstructured text retrieval. In this work, we implement and evaluate a Graph-Based Retrieval-Augmented Generation (Graph RAG) framework that organizes retrieved information into a knowledge graph, enabling context-aware reasoning over entity relationships and supporting more accurate interpretation of numerical and temporal data. Our approach leverages graph construction, traversal, and neighborhood-aware retrieval to provide the language model with semantically enriched context that encodes both qualitative and quantitative relationships. Using local LLMs (LLaMA 3B, Gemma, and Phi-Coder) on medical PDFs, we present experimental results demonstrating improved coherence, factual accuracy, and cross-document reasoning — particularly in scenarios involving numerical constraints — compared to conventional RAG patterns. This study lays the foundation for a subsequent comparative analysis with standard RAG methods, highlighting the potential of graph-structured knowledge to overcome cardinality limitations and enhance generative AI performance in domains requiring deep contextual understanding.
 \end{abstract}
 
 \begin{IEEEkeywords}
@@ -47,7 +56,7 @@ Given a paragraph of scientific text extracted from a PDF document containing te
 This work makes several key contributions to the field of automated knowledge graph construction:
 
 \begin{enumerate}
-\item \textbf{Novel Graph RAG Architecture}: A two-phase pipeline that separates graph construction from querying, enabling independent optimization of each component.
+\item \textbf{Graph RAG Architecture}: A two-phase pipeline that separates graph construction from querying, enabling independent optimization of each component.
 \item \textbf{Intelligent Entity Extraction}: Integration of spaCy's lightweight NER model with semantic chunking for context-aware entity identification.
 \item \textbf{Automated Relationship Synthesis}: LLM-driven Cypher query generation that automatically creates semantically meaningful relationships between entities.
 \item \textbf{Semantic Query Processing}: Natural language query understanding through entity extraction, semantic retrieval, and LLM-driven query generation.
