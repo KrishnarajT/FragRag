@@ -28,11 +28,11 @@ Email: author@institution.edu}
 \maketitle
 
 \begin{abstract}
-This paper presents a novel automated pipeline for constructing and querying knowledge graphs from scientific text, specifically designed for paragraphs extracted from PDF documents. The proposed Graph RAG (Retrieval-Augmented Generation) solution leverages Named Entity Recognition (NER) using spaCy, semantic chunking with sentence transformers, embedding-based retrieval via ChromaDB, and Large Language Model (LLM)-driven Cypher query generation to automate the transformation of unstructured scientific text into a structured property graph in Neo4j. The system implements a two-phase approach: first constructing the knowledge graph through intelligent entity extraction and relationship synthesis, then enabling natural language querying through semantic retrieval and LLM-driven query generation. Experimental results demonstrate the pipeline's effectiveness in automatically extracting entities, synthesizing relationships, and providing accurate answers to natural language queries through graph traversal. The proposed architecture addresses the critical need for scalable, automated knowledge graph construction from scientific literature while maintaining semantic accuracy and query flexibility.
+This paper presents a novel automated pipeline for constructing and querying knowledge graphs from scientific text, specifically designed for paragraphs extracted from PDF documents. The proposed Graph RAG (Retrieval-Augmented Generation) solution leverages Named Entity Recognition (NER) using spaCy, semantic chunking with sentence transformers, embedding-based retrieval via FAISS, and Large Language Model (LLM)-driven Cypher query generation to automate the transformation of unstructured scientific text into a structured property graph in Neo4j. The system implements a two-phase approach: first constructing the knowledge graph through intelligent entity extraction and relationship synthesis, then enabling natural language querying through semantic retrieval and LLM-driven query generation. Experimental results demonstrate the pipeline's effectiveness in automatically extracting entities, synthesizing relationships, and providing accurate answers to natural language queries through graph traversal. The proposed architecture addresses the critical need for scalable, automated knowledge graph construction from scientific literature while maintaining semantic accuracy and query flexibility.
 \end{abstract}
 
 \begin{IEEEkeywords}
-Knowledge Graph, Entity Extraction, Graph RAG, Neo4j, Cypher, Large Language Models, Ollama, PDF Processing, Semantic Embeddings, ChromaDB, spaCy, SentenceTransformers
+Knowledge Graph, Entity Extraction, Graph RAG, Neo4j, Cypher, Large Language Models, Ollama, PDF Processing, Semantic Embeddings, FAISS, spaCy, SentenceTransformers
 \end{IEEEkeywords}
 
 \section{Introduction}
@@ -69,7 +69,7 @@ NER systems for scientific text have evolved from rule-based approaches to deep 
 Retrieval-Augmented Generation (RAG) systems have primarily focused on text generation tasks. The application of RAG principles to knowledge graph construction and querying represents a novel approach that combines the benefits of semantic retrieval with structured knowledge representation.
 
 \subsection{Semantic Embeddings and Vector Databases}
-Sentence transformers and vector databases like ChromaDB have revolutionized semantic search and similarity computation, enabling efficient retrieval of semantically related entities and text chunks.
+Sentence transformers and vector databases like FAISS have revolutionized semantic search and similarity computation, enabling efficient retrieval of semantically related entities and text chunks.
 
 \section{Problem Formulation}
 
@@ -131,7 +131,7 @@ Entities are embedded using the SentenceTransformers library with the \texttt{al
 embedding_i = \text{SentenceTransformer}(text_i)
 \end{equation}
 
-These embeddings are stored in ChromaDB for efficient semantic similarity search, while the entity metadata (text, label, position) is stored as nodes in Neo4j. This dual storage approach enables both semantic retrieval and graph traversal operations.
+These embeddings are stored in FAISS files for efficient semantic similarity search, while the entity metadata (text, label, position) is stored as nodes in Neo4j. This dual storage approach enables both semantic retrieval and graph traversal operations.
 
 \subsubsection{Semantic Chunking}
 The paragraph is segmented into semantically meaningful chunks using sentence boundaries and topic coherence. Each chunk $c_j$ is embedded using the same sentence transformer model:
@@ -143,7 +143,7 @@ chunk\_embedding_j = \text{SentenceTransformer}(c_j)
 \subsubsection{Relationship Synthesis via LLM}
 For each semantic chunk, the system:
 \begin{enumerate}
-\item Retrieves semantically similar entities from ChromaDB using cosine similarity
+\item Retrieves semantically similar entities from FAISS using cosine similarity
 \item Generates Cypher queries using an LLM (Llama3 via Ollama) to create relationships
 \item Executes the generated queries in Neo4j to build the knowledge graph
 \end{enumerate}
@@ -162,7 +162,7 @@ The LLM prompt engineering follows strict guidelines to ensure valid Cypher synt
 Natural language queries are processed using the same NER pipeline to extract relevant entities. The system identifies query entities and retrieves corresponding nodes from the knowledge graph.
 
 \subsubsection{Semantic Retrieval and Context Building}
-Relevant entities are retrieved from ChromaDB based on semantic similarity to the query, providing context for graph traversal.
+Relevant entities are retrieved from FAISS based on semantic similarity to the query, providing context for graph traversal.
 
 \subsubsection{Cypher Query Generation}
 An LLM generates Cypher MATCH queries based on the extracted entities and semantic context, ensuring optimal graph traversal patterns.
@@ -177,7 +177,7 @@ Query results are processed and converted to natural language answers using an L
 \item \textbf{PDF Processing}: PyMuPDF for text extraction
 \item \textbf{NLP Pipeline}: spaCy for entity recognition
 \item \textbf{Embeddings}: SentenceTransformers with all-MiniLM-L6-v2
-\item \textbf{Vector Database}: ChromaDB for semantic storage
+\item \textbf{Vector Database}: FAISS for semantic storage
 \item \textbf{Graph Database}: Neo4j for knowledge graph storage
 \item \textbf{LLM Integration}: Ollama with Llama3 model
 \item \textbf{Programming Language}: Python 3.12+
