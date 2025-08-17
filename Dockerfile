@@ -17,3 +17,5 @@ EXPOSE 8000
 
 # Run the FastAPI app with Gunicorn
 CMD ["gunicorn", "-k", "uvicorn.workers.UvicornWorker", "app.main:app", "-b", "0.0.0.0:8000"]
+# just run uvicorn app.main:app --host 0.0.0.0 --port 8000 when developing. gunicorn is better for production as it handles multiple calls better. 
+# CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
