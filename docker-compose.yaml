@@ -3,7 +3,7 @@ services:
     image: krishnarajt/fragrag-backend
     container_name: fragrag-backend
     ports:
-      - "8000:8000"
+      - "4042:8000"
     restart: unless-stopped
     networks:
       - fragrag-network
